@@ -1,0 +1,1 @@
+Sample Application to Demonstrate CI/CD for GIC
